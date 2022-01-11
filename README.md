@@ -14,7 +14,10 @@
   <img align="center" alt="Bruques-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Bruques-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Bruques-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Bruques-Python" height="30" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 </div>
+ 
  
  ##
  
