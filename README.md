@@ -1,5 +1,5 @@
- - 👋 Olá, me chamo Bruno, sou Médico Veterinário mas desde criança sempre fui apaixonado por tecnologia e inovação, hoje me encontro em processo de transição de carreira estou estudando para me tornar um desenvolvedor mobile, ainda estou conheçendo mais a fundo esse mundo da tecnologia, e cada dia me apaixonando e buscando novos conhecimentos na área.
-- 🌱 Hoje eu curso Sistemas de Informação e atualmente estou aprendendo Swift e Python.
+ - 👋 Olá, me chamo Bruno, sou estagiário em desenvolvimento iOS com Swift, desde criança sempre fui apaixonado por tecnologia e inovação, depois de uma transição de carreira, hoje estou conhecendo cada vez mais sobre o mundo do mobile.
+- 🌱 Hoje eu curso Sistemas de Informação e meu foco atual desenvolvimento mobile usando Swift com UIKit.
 - 💬 Também tenho um instagram @umporcentomais onde eu posto meu progresso como desenvolvedor, no qual busco sempre estar postando para me manter motivado e espero poder ajudar novas pessoas que também estão começando no mundo da programação.
 
 <div align="center">
