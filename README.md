@@ -1,4 +1,4 @@
- - 👋 Olá, me chamo Bruno, sou estagiário em desenvolvimento iOS com Swift, desde criança sempre fui apaixonado por tecnologia e inovação, depois de uma transição de carreira, me encontro em um lugar onde sou apaixonado pelo que faço!
+ - 👋 Olá, me chamo Bruno, sou desenvolvedor iOS com Swift, desde criança sempre fui apaixonado por tecnologia e inovação, depois de uma transição de carreira, me encontro em um lugar onde sou apaixonado pelo que faço!
 - 🌱 Hoje eu curso Sistemas de Informação e meu foco atual desenvolvimento mobile usando Swift com SwiftUI.
 - 💬 Também tenho um instagram @umporcentomais onde eu posto meu progresso como desenvolvedor e meu canal no youtube, SwiftUAI, no qual busco sempre estar postando para me manter motivado e espero poder ajudar novas pessoas que também estão começando no mundo da programação.
 
